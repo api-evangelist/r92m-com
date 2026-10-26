@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-R92m is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by norwest-venture-partners) and added to the network as a stub for full-pipeline profiling.
-- https://r92m.com
+Route 92 Medical (R92m) is a healthcare technology company focused on providing innovative medical solutions and services. The company operates a platform that connects patients, providers, and payers to streamline medical logistics, improve care coordination, and enhance patient outcomes. Founded with backing from Norwest Venture Partners, Route 92 Medical leverages modern technology to address challenges in the medical industry.
+
+**Areas:** Company · Healthcare · Technology · Platform · Medical
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://r92m.com)
+- [Terms of service](https://www.route92medical.com/terms-of-use/)
+- [Privacy policy](https://www.route92medical.com/privacy-policy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/r92m-com/](https://apis.io/providers/r92m-com/).
